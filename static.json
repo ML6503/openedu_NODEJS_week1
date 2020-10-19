@@ -1,7 +1,8 @@
 {
 "headers": {
 "/*": {
-"X-Author": "arethel"
+  "X-Author": "arethel",
+  "Control-Allow-Origin": "*"
 }
 }
 }
