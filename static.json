@@ -2,7 +2,7 @@
 "headers": {
 "/*": {
   "X-Author": "arethel",
-  "Control-Allow-Origin": "*"
-}
-}
+  "Access-Control-Allow-Origin": "*"
+    }
+  }
 }
